@@ -1,4 +1,4 @@
-##This is a free Project on datacamp.com
+#This is a free Project on datacamp.com
 
 Things Learned from this project:
 - Reading dataset using R,
